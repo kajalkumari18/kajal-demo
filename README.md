@@ -1,2 +1,2 @@
 # kajal-demo
-This is a demo  project for git &amp; github
+This is a demo  project for git &amp; github.
